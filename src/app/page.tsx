@@ -55,7 +55,7 @@ export default function HomePage() {
             Por apenas: R$ 9,90
           </p>
           <a
-            href="SEU_LINK_DE_PAGAMENTO_AQUI"
+            href="https://pay.cakto.com.br/3f5bva2_526336"
             className="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-6 px-12 rounded-full text-3xl uppercase transition duration-300 transform hover:scale-105 shadow-xl"
             target="_blank"
             rel="noopener noreferrer"
